@@ -1,5 +1,5 @@
 {
-  "name": "number-word-generator",
+  "name": "number-to-words-en-us",
   "version": "1.0.0",
   "description": "An package to convert numerical values to words",
   "main": "/src/render.cjs",
@@ -11,8 +11,7 @@
     }
   },
   "scripts": {
-    "test": "nodemon script.js",
-    "start": "node script.js"
+    "test": ""
   },
   "keywords": [
     "number-to-words",
