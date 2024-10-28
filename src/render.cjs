@@ -1,4 +1,4 @@
-const { numbers, counters } = require("./boot/arrays");
+const { numbers, counters } = require("../boot/arrays.js");
 
 function numberToWord(num) {
   if (+num > 10e63)
@@ -83,6 +83,5 @@ function numberToWord(num) {
 
   return `${intStr.trim()} ${floatStr.trim()}`.trim().toLowerCase();
 }
-console.log(numberToWord(2000002563));
 
 module.exports = numberToWord;

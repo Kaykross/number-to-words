@@ -2,7 +2,14 @@
   "name": "number-word-generator",
   "version": "1.0.0",
   "description": "An package to convert numerical values to words",
-  "main": "index.js",
+  "main": "/src/render.cjs",
+  "module": "/src/render.mjs",
+  "exports":{
+    ".":{
+      "require":"./src/render.cjs",
+      "import":"./src/render.mjs"
+    }
+  },
   "scripts": {
     "test": "nodemon script.js",
     "start": "node script.js"
