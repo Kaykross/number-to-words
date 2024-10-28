@@ -14,26 +14,24 @@ npm install number-to-words-en-us
 
 ## Usage
 
-### With common js / using require statement
+### With common js (cjs) / using require statement
 
 ```js
-# import the module using the require statement
+//import the module using the require statement
 const numberToWords = require("number-to-words-en-us");
 
-# example- convert the number 4563 to words
+//example- convert the number 4563 to words
 const convertedNumber = numberToWords(4563); // four thousand five hundred and sixty three
-
 ```
 
-### With mjs / using import statement
+### With plain or module javascript (mjs) / using import statement
 
 ```js
-# import the module using the import statement
+//import the module using the import statement
 import numberToWords from "number-to-words-en-us";
 
-# example- convert the number 4563 to words
+//example- convert the number 4563 to words
 const convertedNumber = numberToWords(4563); // four thousand five hundred and sixty three
-
 ```
 
 ## Contributing
@@ -49,6 +47,6 @@ Please make sure to contact me @ constantaddo@outlook.com.
 
 ## Author
 
-> ADDO CONSTANT
-> GHANA
-> Email: constantaddo@outlook.com
+> ADDO CONSTANT\
+> GHANA\
+> Email: constantaddo@outlook.com\
