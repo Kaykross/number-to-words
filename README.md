@@ -8,17 +8,20 @@
 
 #### $\textsf{\color{#18afd3}{18afd3}}$
 
-##### $\textsf{\color{#5ec3d5}{5ec3d5}}$
+##### $\textsf{\color{#248D27}{5ec3d5}}$
 
-> # [![](https://img.shields.io/badge/number-to-words-en-us-orange?style=for-the-badge)](https://crates.io/crates/redant)
+> number-to-words-en-us-orange
 
-> number-to-words-en-us is a javascript package to convert numerical values (numbers) to words.
+## Introduction
+
+number-to-words-en-us is a javascript package to convert numerical values (numbers) to words.
 
 ## Installation
 
-> Use the package manager [npm](https://registry.npmjs.org/) is required to install the package.
+Use the package manager [npm](https://registry.npmjs.org/) is required to install the package.
 
-```bash
+```js
+$\textsf{\color{ #C34632}{Installation}}$
 npm install number-to-words-en-us
 ```
 
