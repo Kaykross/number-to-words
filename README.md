@@ -1,4 +1,6 @@
-> number-to-words-en-us-orange
+## Package Name
+
+> number-to-words-en-us-orange <
 
 ## Introduction
 
@@ -49,4 +51,4 @@ Please make sure to contact me @ constantaddo@outlook.com.
 
 > ADDO CONSTANT\
 > GHANA\
-> Email: constantaddo@outlook.com\
+> Email: constantaddo@outlook.com
