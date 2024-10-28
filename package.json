@@ -1,0 +1,26 @@
+{
+  "name": "number-word-generator",
+  "version": "1.0.0",
+  "description": "An package to convert numerical values to words",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon script.js",
+    "start": "node script.js"
+  },
+  "keywords": [
+    "number-to-words",
+    "number",
+    "converter",
+    "number",
+    "to",
+    "words",
+    "convertor",
+    "number",
+    "numerical",
+    "values",
+    "to",
+    "words"
+  ],
+  "author": "ADDO CONSTANT",
+  "license": "ISC"
+}
