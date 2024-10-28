@@ -1,6 +1,6 @@
 ## Package
 
-[number-to-words-en-us-orange ](https://www.npmjs.com/package/number-to-words-en-us)
+[number-to-words-en-us](https://www.npmjs.com/package/number-to-words-en-us)
 
 ## Introduction
 
