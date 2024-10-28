@@ -1,6 +1,6 @@
-## Package Name
+## Package
 
-> number-to-words-en-us-orange <
+[number-to-words-en-us-orange ](https://www.npmjs.com/package/number-to-words-en-us)
 
 ## Introduction
 
